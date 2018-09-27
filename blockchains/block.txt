@@ -1,0 +1,7 @@
+Block {
+	timestamp: "01/01/2018",
+	transaction: 'Genesis block',
+	previousHash: '0',
+	hash: 'asdasdnuivhwpiu109jdsf'
+	nonce: '0'
+}
